@@ -1,12 +1,12 @@
 ## Ubicacion de Logs
-src/data/logAprobados.txt
-src/data/logErrores.txt
+- src/data/logAprobados.txt
+- src/data/logErrores.txt
 
 ## DataBase
-src/data/datos.db
+- src/data/datos.db
 
 ## CSV
-src/data/cardsclients.csv
+- src/data/cardsclients.csv
 
 ## Integracion fuera de línea
 
